@@ -1,38 +1,58 @@
 
 # Ex.No: 2 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta 
 
+# DATE : 12:04:2025
+
+# REGISTER NUMBER : 212222060185
+
 ### Introduction
 
- Contextual Background: Briefly introduce the increasing importance of text
+Contextual Background: 
+ 
+Briefly introduce the increasing importance of text
 summarization in today's information-saturated world. Highlight its applications
 across various platforms and domains (e.g., news aggregation, research analysis,
 social media monitoring, customer support).
 
- The Rise of AI-Powered Summarization: Discuss the evolution of text
+The Rise of AI-Powered Summarization:
+ 
+Discuss the evolution of text
 summarization techniques, emphasizing the significant advancements brought about
 by artificial intelligence and natural language processing (NLP). Mention key
 milestones and the shift towards more sophisticated neural network-based models.
 
- The Challenge of Cross-Platform Consistency: Introduce the core problem: the
-need for robust and consistent summarization performance across diverse platforms,
+The Challenge of Cross-Platform Consistency: 
+ 
+Introduce the core problem: 
+ 
+The need for robust and consistent summarization performance across diverse platforms,
 each with its unique data formats, constraints (e.g., character limits), and user
 expectations.
 
- The Role of Prompting: Explain the crucial role of prompting in eliciting effective
+The Role of Prompting: 
+ 
+Explain the crucial role of prompting in eliciting effective
 summaries from large language models (LLMs) and other AI summarization systems.
 Highlight how different prompting strategies can significantly impact the quality and
 style of the generated summaries.
 
- Objectives: Clearly state the aims of this report, such as:
+Objectives: 
+ 
+Clearly state the aims of this report, such as:
+ 
 o Investigating various prompting techniques for text summarization.
+
 o Evaluating the performance of these techniques across different platforms.
+
 o Analyzing the strengths and weaknesses of diverse AI summarization models.
+
 o Identifying best practices for cross-platform text summarization.
+
  Structure: Briefly outline the organization of the subsequent sections.
 
 ### Fundamentals of AI-Powered Text Summarization
 
- Abstractive vs. Extractive Summarization: Provide a detailed explanation of these
+ Abstractive vs Extractive Summarization: Provide a detailed explanation of these
 two primary approaches to text summarization, outlining their core mechanisms,
 advantages, and limitations.
 
@@ -46,6 +66,7 @@ of the source text, often involving paraphrasing and rephrasing.
 summarization, including:
 
 o Sequence-to-Sequence Models (e.g., RNNs, LSTMs, Transformers):
+
 Explain their fundamental architecture and how they are adapted for
 summarization tasks.
 
@@ -220,16 +241,21 @@ of summarization on different platforms.
 summarization techniques or models to achieve better cross-platform performance.
 
  Future Research Directions: Identify key areas for future research, such as:
+
 o Developing more robust and adaptable summarization models.
+
 o Improving techniques for handling diverse data formats.
+
 o Creating more sophisticated evaluation methods for cross-platform
 summarization.
+
 o Investigating the ethical implications of deploying summarization across
 different contexts.
 
 ### Key Components:
 
 1. Prompting Techniques:
+   
  Zero-shot prompting: Model is asked to summarize without examples.
 
  Few-shot prompting: Model is shown examples of good summaries.
